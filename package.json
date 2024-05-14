@@ -1,0 +1,11 @@
+{
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "description": "End-to-end tests for a complete application",
+  "scripts": {
+    "start": "serve app"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
